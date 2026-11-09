@@ -1,0 +1,6 @@
+{
+  "appId": "com.musicbox.app",
+  "appName": "MusicBox",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
